@@ -64,3 +64,7 @@ function getScrollTop(){//获取窗口滚动高度
     }
     return scrollTop;
 }
+ 
+function test() {
+    
+}
